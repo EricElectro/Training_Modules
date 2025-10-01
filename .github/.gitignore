@@ -1,0 +1,18 @@
+# folders
+.vscode/
+build/
+dist/
+node_modules/
+.github/chatmodes/
+.vscode/
+02_Buck_Converter/
+03_RC_Snubber/
+04_Pi_Filter/
+05_Diff_Pair/
+06_OpAmp_G10/
+07_Current_Sense/
+08_Half_Bridge/
+
+
+# files
+/Lab_Guide_Template.md

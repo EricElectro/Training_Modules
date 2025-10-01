@@ -1,0 +1,6 @@
+C:\Users\Eric\OneDrive\Productivity\E.R.I.C\PROFESSIONAL\ELECTRICAL_ENGINEERING_GENERAL\Training_Modules\01_LDO_Regulator\LTSpice\Stage01_TB_TL431\Draft2.net(7): Unknown parameter
+V2 Vdd Vd V
+          ^
+C:\Users\Eric\OneDrive\Productivity\E.R.I.C\PROFESSIONAL\ELECTRICAL_ENGINEERING_GENERAL\Training_Modules\01_LDO_Regulator\LTSpice\Stage01_TB_TL431\Draft2.net(14): File not found.
+.include ami06.lib
+         ^^^^^^^^^

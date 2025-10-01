@@ -1,0 +1,19 @@
+LTspice 24.1.10 for Windows
+Circuit: C:\Users\Eric\OneDrive\Productivity\E.R.I.C\PROFESSIONAL\ELECTRICAL_ENGINEERING_GENERAL\Training_Modules\01_LDO_Regulator\LTSpice\Stage04_TB_TIP42C\Stage04_TB_TIP42C.net
+Start Time: Tue Sep 30 22:52:56 2025
+solver = Normal
+Maximum thread count: 16
+tnom = 27
+temp = 27
+method = modified trap
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.035 seconds.
+
+Files loaded:
+C:\Users\Eric\OneDrive\Productivity\E.R.I.C\PROFESSIONAL\ELECTRICAL_ENGINEERING_GENERAL\Training_Modules\01_LDO_Regulator\LTSpice\Stage04_TB_TIP42C\Stage04_TB_TIP42C.net
+C:\Users\Eric\AppData\Local\LTspice\lib\cmp\standard.bjt
+C:\Users\Eric\OneDrive\Productivity\E.R.I.C\PROFESSIONAL\ELECTRICAL_ENGINEERING_GENERAL\Training_Modules\01_LDO_Regulator\LTSpice\Stage04_TB_TIP42C\TIP42C.lib
+
+C:\Users\Eric\OneDrive\Productivity\E.R.I.C\PROFESSIONAL\ELECTRICAL_ENGINEERING_GENERAL\Training_Modules\01_LDO_Regulator\LTSpice\Stage04_TB_TIP42C\Stage04_TB_TIP42C.net(16): No such parameter defined.
+.meas OP Base FIND Ib WHEN v(emitter)=3.3
+                   ^^
