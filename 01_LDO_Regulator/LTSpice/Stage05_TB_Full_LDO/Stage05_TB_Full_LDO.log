@@ -1,6 +1,6 @@
 LTspice 24.1.10 for Windows
 Circuit: C:\Users\Eric\OneDrive\Productivity\E.R.I.C\PROFESSIONAL\ELECTRICAL_ENGINEERING_GENERAL\Training_Modules\01_LDO_Regulator\LTSpice\Stage05_TB_Full_LDO\Stage05_TB_Full_LDO.net
-Start Time: Wed Oct  1 11:33:07 2025
+Start Time: Thu Oct  2 12:25:29 2025
 solver = Normal
 Maximum thread count: 16
 tnom = 27
@@ -26,7 +26,7 @@ Gmin = 2.70769e-13
 Gmin = 0
 Gmin stepping succeeded in finding the operating point.
 
-Total elapsed time: 0.098 seconds.
+Total elapsed time: 0.111 seconds.
 
 Files loaded:
 C:\Users\Eric\OneDrive\Productivity\E.R.I.C\PROFESSIONAL\ELECTRICAL_ENGINEERING_GENERAL\Training_Modules\01_LDO_Regulator\LTSpice\Stage05_TB_Full_LDO\Stage05_TB_Full_LDO.net
